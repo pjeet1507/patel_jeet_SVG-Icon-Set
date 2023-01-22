@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 170 172.43">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke-width: 4.18px;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5 {
+        fill: #fff;
+        stroke: #231f20;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        stroke-width: 4px;
+      }
+
+      .cls-3 {
+        stroke-width: 5.73px;
+      }
+
+      .cls-4 {
+        stroke-width: 4.26px;
+      }
+
+      .cls-5 {
+        stroke-width: 5.63px;
+      }
+    </style>
+  </defs>
+  <g id="play">
+    <g id="head_phones" data-name="head phones">
+      <path class="cls-2" d="m11.5,85.59h1.62c4.81,0,8.78-3.6,9.42-8.37,4.09-30.85,30.5-54.65,62.46-54.65s58.37,23.8,62.46,54.65c.63,4.76,4.61,8.37,9.42,8.37h1.62c5.68,0,10.14-4.97,9.43-10.6C162.71,33.83,127.57,2,85,2S7.29,33.83,2.08,74.99c-.71,5.64,3.75,10.6,9.43,10.6Z"/>
+      <path class="cls-5" d="m29.54,85.59h4.8v84.03h-4.8c-4.64,0-8.4-3.77-8.4-8.4v-67.22c0-4.64,3.77-8.4,8.4-8.4Z"/>
+      <path class="cls-1" d="m8.67,96.39h3.57v62.42h-3.57c-3.44,0-6.24-2.8-6.24-6.24v-49.94c0-3.44,2.8-6.24,6.24-6.24Z"/>
+      <path class="cls-3" d="m141.85,83.08h4.89v85.51h-4.89c-4.72,0-8.55-3.83-8.55-8.55v-68.41c0-4.72,3.83-8.55,8.55-8.55Z" transform="translate(280.03 251.67) rotate(-180)"/>
+      <path class="cls-4" d="m162.15,94.07h3.63v63.52h-3.63c-3.51,0-6.35-2.85-6.35-6.35v-50.82c0-3.51,2.85-6.35,6.35-6.35Z" transform="translate(321.57 251.67) rotate(-180)"/>
+    </g>
+  </g>
+</svg>
